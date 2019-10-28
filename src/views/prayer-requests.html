@@ -39,6 +39,7 @@
                         <span class="slds-text-heading__small">{{prayerRequest.regarding__c}}</span>
                     </a>
                 </h2>
+                <h2>{{prayerRequest.summary__c}}</h2>
             </div>
         </header>
         <div class="slds-no-flex">
@@ -49,7 +50,10 @@
         <p>Detail</p>
         <p>{{prayerRequest.detail__c}}</p>
     </div>
-    <footer class="slds-card__footer">{{prayerRequest.type__c}}</footer>
+    <footer class="slds-card__footer">
+        <p>{{prayerRequest.type__c}}</p>
+        <p>Created By: {{prayerRequest.requestor__c}}</p>
+    </footer>
 </article>
 {% endfor %}
 
