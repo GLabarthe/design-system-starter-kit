@@ -1,0 +1,96 @@
+
+{
+  "pageTitle": "Prayer Request List",
+  "prayerRequests": [
+    {
+      "type__c": "New Request",
+      "status__c": "Approved",
+      "requestor__c": "Amanda Day",
+      "regarding__c": "Health and Finances",
+      "theirName__c": "Jill Nelson",
+      "role__c": "Supporter",
+      "detail__c": "Please lift Jill's husband up in prayer as he was recently diagnosed with lung cancer. Also pray for their finances as they are living paycheck to paychecj and really struggling.",
+      "summary__c": "Prayers for healing and financial concerns",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme--shade slds-theme--alert-texture",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    },
+    {
+      "type__c": "Update Prayer Request",
+      "status__c": "Approved",
+      "requestor__c": "Grant Morgan",
+      "regarding__c": "Death of Benefciary",
+      "theirName__c": "Mr. and Mrs. Daniel S Puckett",
+      "role__c": "Supporter",
+      "detail__c": "Sadly, Daniel's sponsored child, Tamirat Mamuye, passed away. Please pray for Daniel and Tamirat's family as they grieve the loss of this child",
+      "summary__c": "Sponsored child, Tamirat, passed away",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme_warning",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    },
+    {
+      "type__c": "New Request",
+      "status__c": "Approved",
+      "requestor__c": "Russekk Gipson",
+      "regarding__c": "Death of Beneficiary",
+      "theirName__c": "Ava Wilson",
+      "role__c": "Supporter",
+      "detail__c": "Pray for comfort for all the grieving families involved",
+      "summary__c": "Sadly, Ava's sponsored child, Angel, passed away. Please pray for comfort for all the grieving families involved.",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme--shade slds-theme--alert-texture",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    },
+    {
+      "type__c": "Praise Report",
+      "status__c": "Approved",
+      "requestor__c": "Andy Boy",
+      "regarding__c": "Health and Finances",
+      "theirName__c": "Jeferson Guita",
+      "role__c": "Supporter",
+      "detail__c": "Praise the Lord, Jeferson found a new job and he is happy to continue support his child in Peru.",
+      "summary__c": "Jeferson found a new job which will allow him to support his beneficiary in Peru.",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme--success",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    },
+    {
+      "type__c": "New Request",
+      "status__c": "Approved",
+      "requestor__c": "Amanda Day",
+      "regarding__c": "Health and Finances",
+      "theirName__c": "Jill Nelson",
+      "role__c": "Supporter",
+      "detail__c": "Prayers for healing and financial concerns",
+      "summary__c": "Prayers for healing and financial concerns",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme--shade slds-theme--alert-texture",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    },
+    {
+      "type__c": "New Request",
+      "status__c": "Approved",
+      "requestor__c": "Amanda Day",
+      "regarding__c": "Health and Finances",
+      "theirName__c": "Jill Nelson",
+      "role__c": "Supporter",
+      "detail__c": "Prayers for healing and financial concerns",
+      "summary__c": "Prayers for healing and financial concerns",
+      "startDate__c": "10/25/2019",
+      "endDate__c": "11/24/2019",
+      "cardtheme" : "slds-theme--shade slds-theme--alert-texture",
+      "iconthene": "slds-icon-standard-bot",
+      "status-theme__c" : "info"
+    }
+  ]
+}
